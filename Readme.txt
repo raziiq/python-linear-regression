@@ -1,4 +1,4 @@
-This repo demonstrates Python's Linear Regression model techniques including replacing.
+This repo demonstrates Python's Linear Regression model techniques.
 
 It builds models using both Simple Linear and Multiple Linear Regression and then compares them using visualizations.
 
